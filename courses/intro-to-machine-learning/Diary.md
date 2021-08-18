@@ -66,3 +66,6 @@ Kaggle’s 30 Days of ML Daily Assignments
 
 - :arrow_down_small:図解：学習不足（Underfitting）と過学習（overfitting）（画像の引用元：<https://twitter.com/AIDay95390248/status/1425924061956354049>）
   ![Underfitting vs Overfitting](images/20210818-172311.png)
+
+- :arrow_down_small:図解：ランダムフォレスト（画像の引用元：<https://twitter.com/AIDay95390248/status/1425937066815332365>）
+  ![Random Forest](images/20210818-172921.png)
