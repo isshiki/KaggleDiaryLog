@@ -10,7 +10,7 @@ Kaggleで作業した日々の内容を書きつづった日誌のうち、コ�
 - [competitions フォルダー](https://github.com/isshiki/KaggleDiaryLog/tree/main/competitions): コンペの日記とノートブックを置く場所
 - [datasets フォルダー](https://github.com/isshiki/KaggleDiaryLog/tree/main/datasets): データセットとその日記を置く場所
 - [code フォルダー](https://github.com/isshiki/KaggleDiaryLog/tree/main/code): コンペ以外の日記とノートブックを置く場所
-- [courses フォルダー](https://github.com/isshiki/KaggleDiaryLog/tree/main/courses): Kaggle公式講座とノートブックを置く場所
+- [courses フォルダー](https://github.com/isshiki/KaggleDiaryLog/tree/main/courses): Kaggle公式講座の日記とノートブックを置く場所
   - [Kaggle日記（2021年8月3日～9日）： Kaggle公式講座「Python」の履修](https://github.com/isshiki/KaggleDiaryLog/blob/main/courses/python/Diary.md)
 
 フォルダー名とファイル名のルール
