@@ -17,7 +17,7 @@ Kaggleで作業した日々の内容を書きつづった日誌のうち、コ�
 -------------
 
 - フォルダー名：Kaggleサイト上の各コンペ／講座のURLで使われている文字列をそのまま使う。
-  例えば「[Learn Intro to Machine Learning Tutorials | Kaggle](https://www.kaggle.com/learn/intro-to-machine-learning)」講座のURLは「intro-to-machine-learning」
+  例えば「[Learn Intro to Machine Learning Tutorials | Kaggle](https://www.kaggle.com/learn/intro-to-machine-learning)」講座のURLは「intro-to-machine-learning」にする。
 - ファイル名：日記は「Diary.md」に統一する。検索しやすくするため。
 
 ライセンス
