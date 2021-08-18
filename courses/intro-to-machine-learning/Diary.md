@@ -46,6 +46,10 @@ Kaggle’s 30 Days of ML Daily Assignments
 
 ### Python Cource
 
+Competitions／Datasets／Notebooks／Discussionの全カテゴリで最上位の称号（＝4GM、4x Kaggle Grandmaster）を獲得したAbhishek Thakur氏（『Kaggle Grandmasterに学ぶ 機械学習 実践アプローチ』／"Approaching (Almost) Any Machine Learning Problem"の著者）による下記の解説動画も全て視聴しました。
+
+- [Kaggle's 30 Days of ML - YouTube](https://www.youtube.com/playlist?list=PL98nY_tJQXZnP-k3qCDd1hljVSciDV9_N)
+
 勉強した内容を図にまとめたツイートを見付けました。
 
 - [AI Day](https://twitter.com/AIDay95390248)
