@@ -3,7 +3,7 @@ Kaggle日記： 2021年8月3日～9日
 
 2021年8月2日から開催されたKaggle公式「[30 Days of ML](https://www.kaggle.com/thirty-days-of-ml)」プログラムに沿って、最初の1週間で、
 
--講座「 [Learn Python Tutorials | Kaggle](https://www.kaggle.com/learn/python)」
+- 講座「 [Learn Python Tutorials | Kaggle](https://www.kaggle.com/learn/python)」
 
 を受講して終了しました。本日記はそのときのログです。
 
