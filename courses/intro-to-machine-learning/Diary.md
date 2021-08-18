@@ -1,7 +1,7 @@
 Kaggle日記（2021年8月10日～13日）： Kaggle公式講座「Intro to Machine Learning」の履修
 ===============================
 
-2021年8月2日から開催されたKaggle公式「[30 Days of ML](https://www.kaggle.com/thirty-days-of-ml)」プログラムに沿って、最初の1週間で、
+2021年8月2日から開催されたKaggle公式「[30 Days of ML](https://www.kaggle.com/thirty-days-of-ml)」プログラムに沿って、2週目の4日間で、
 
 - 講座「 [Learn Intro to Machine Learning Tutorials | Kaggle](https://www.kaggle.com/learn/intro-to-machine-learning)」
 
