@@ -5,7 +5,7 @@ Kaggle日記（2021年8月3日～9日）： Kaggle公式講座「Python」の履
 
 - 講座「 [Learn Python Tutorials | Kaggle](https://www.kaggle.com/learn/python)」
 
-を受講して終了しました。本日記はそのときのログです。
+を受講して終了しました。この日記はそのときのログです。
 
 修了証
 ----------------------------------------
