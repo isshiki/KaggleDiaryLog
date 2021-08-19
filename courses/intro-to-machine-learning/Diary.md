@@ -19,30 +19,26 @@ Kaggle’s 30 Days of ML Daily Assignments
 
 リンクはカットしました。
 
-### Day 8: 8/10
+- Day 8: 8/10
+  - Read this tutorial (from Lesson 1 of the Intro to ML course)
+  - Read this tutorial (from Lesson 2 of the Intro to ML course)
+  - Complete this exercise (from Lesson 2 of the Intro to ML course)
 
-- Read this tutorial (from Lesson 1 of the Intro to ML course)
-- Read this tutorial (from Lesson 2 of the Intro to ML course)
-- Complete this exercise (from Lesson 2 of the Intro to ML course)
+- Day 9: 8/11
+  - Read this tutorial (from Lesson 3 of the Intro to ML course)
+  - Complete this exercise (from Lesson 3 of the Intro to ML course)
+  - Read this tutorial (from Lesson 4 of the Intro to ML course)
+  - Complete this exercise (from Lesson 4 of the Intro to ML course)
 
-### Day 9: 8/11
+- Day 10: 8/12
+  - Read this tutorial (from Lesson 5 of the Intro to ML course)
+  - Complete this exercise (from Lesson 5 of the Intro to ML course)
+  - Read this tutorial (from Lesson 6 of the Intro to ML course)
+  - Complete this exercise (from Lesson 6 of the Intro to ML course)
 
-- Read this tutorial (from Lesson 3 of the Intro to ML course)
-- Complete this exercise (from Lesson 3 of the Intro to ML course)
-- Read this tutorial (from Lesson 4 of the Intro to ML course)
-- Complete this exercise (from Lesson 4 of the Intro to ML course)
-
-### Day 10: 8/12
-
-- Read this tutorial (from Lesson 5 of the Intro to ML course)
-- Complete this exercise (from Lesson 5 of the Intro to ML course)
-- Read this tutorial (from Lesson 6 of the Intro to ML course)
-- Complete this exercise (from Lesson 6 of the Intro to ML course)
-
-### Day 11 8/13
-
-- Read this tutorial (from Lesson 7 of the Intro to ML course)
-- Complete this exercise (from Lesson 7 of the Intro to ML course)
+- Day 11 8/13
+  - Read this tutorial (from Lesson 7 of the Intro to ML course)
+  - Complete this exercise (from Lesson 7 of the Intro to ML course)
 
 Intro to Machine Learning Course
 --------------------------------
