@@ -19,42 +19,35 @@ Kaggle’s 30 Days of ML Daily Assignments
 
 リンクはカットしました。
 
-### Day 1: 8/3
+- Day 1: 8/3
+  - [Follow the instructions in this notebook](https://www.kaggle.com/alexisbcook/getting-started-with-kaggle) to get started with Kaggle
+  - Join 30 Days of ML Discord Community and introduce yourself in the #introductions channel
 
-- [Follow the instructions in this notebook](https://www.kaggle.com/alexisbcook/getting-started-with-kaggle) to get started with Kaggle
-- Join 30 Days of ML Discord Community and introduce yourself in the #introductions channel
+- Day 2: 8/4
+  - Read this tutorial (from Lesson 1 of the Python course)
+  - Complete this exercise (from Lesson 1 of the Python course)
 
-### Day 2: 8/4
+- Day 3: 8/5
+  - Read this tutorial (from Lesson 2 of the Python course)
+  - Complete this exercise (from Lesson 2 of the Python course)
 
-- Read this tutorial (from Lesson 1 of the Python course)
-- Complete this exercise (from Lesson 1 of the Python course)
+- Day 4: 8/6
+  - Read this tutorial (from Lesson 3 of the Python course)
+  - Complete this exercise (from Lesson 3 of the Python course)
 
-### Day 3: 8/5
+- Day 5: 8/7
+  - Read this tutorial (from Lesson 4 of the Python course)
+  - Complete this exercise (from Lesson 4 of the Python course)
+  - Read this tutorial (from Lesson 5 of the Python course)
+  - Complete this exercise (from Lesson 5 of the Python course)
 
-- Read this tutorial (from Lesson 2 of the Python course)
-- Complete this exercise (from Lesson 2 of the Python course)
+- Day 6: 8/8
+  - Read this tutorial (from Lesson 6 of the Python course)
+  - Complete this exercise (from Lesson 6 of the Python course)
 
-### Day 4: 8/6
-
-- Read this tutorial (from Lesson 3 of the Python course)
-- Complete this exercise (from Lesson 3 of the Python course)
-
-### Day 5: 8/7
-
-- Read this tutorial (from Lesson 4 of the Python course)
-- Complete this exercise (from Lesson 4 of the Python course)
-- Read this tutorial (from Lesson 5 of the Python course)
-- Complete this exercise (from Lesson 5 of the Python course)
-
-### Day 6: 8/8
-
-- Read this tutorial (from Lesson 6 of the Python course)
-- Complete this exercise (from Lesson 6 of the Python course)
-
-### Day 7: 8/9
-
-- Read this tutorial (from Lesson 7 of the Python course)
-- Complete this exercise (from Lesson 7 of the Python course)
+- Day 7: 8/9
+  - Read this tutorial (from Lesson 7 of the Python course)
+  - Complete this exercise (from Lesson 7 of the Python course)
 
 Python Course
 -------------
