@@ -19,34 +19,29 @@ Kaggle’s 30 Days of ML Daily Assignments
 
 リンクはカットしました。ちょっとボリュームが多くて2日間ほど遅れました...。
 
-### Day 12： 8/14土
+- Day 12： 8/14土
+  - Read this tutorial (from Lesson 1 of the Intermediate ML course)
+  - Complete this exercise (from Lesson 1 of the Intermediate ML course)
 
-- Read this tutorial (from Lesson 1 of the Intermediate ML course)
-- Complete this exercise (from Lesson 1 of the Intermediate ML course)
+- Day 13： 8/15日
+  - Read this tutorial (from Lesson 2 of the Intermediate ML course)
+  - Complete this exercise (from Lesson 2 of the Intermediate ML course)
 
-### Day 13： 8/15日
+- Day 14： 8/16月
+  - Read this tutorial (from Lesson 3 of the Intermediate ML course)
+  - Complete this exercise (from Lesson 3 of the Intermediate ML course)
 
-- Read this tutorial (from Lesson 2 of the Intermediate ML course)
-- Complete this exercise (from Lesson 2 of the Intermediate ML course)
+- Day 15： 8/17火
+  - Read this tutorial (from Lesson 4 of the Intermediate ML course)
+  - Complete this exercise (from Lesson 4 of the Intermediate ML course)
 
-### Day 14： 8/16月
-
-- Read this tutorial (from Lesson 3 of the Intermediate ML course)
-- Complete this exercise (from Lesson 3 of the Intermediate ML course)
-
-### Day 15： 8/17火
-
-- Read this tutorial (from Lesson 4 of the Intermediate ML course)
-- Complete this exercise (from Lesson 4 of the Intermediate ML course)
-
-### Day 16： 8/18水
-
-- Read this tutorial (from Lesson 5 of the Intermediate ML course)
-- Complete this exercise (from Lesson 5 of the Intermediate ML course)
-- Read this tutorial (from Lesson 6 of the Intermediate ML course)
-- Complete this exercise (from Lesson 6 of the Intermediate ML course)
-- Read this tutorial (from Lesson 7 of the Intermediate ML course)
-- Complete this exercise (from Lesson 7 of the Intermediate ML course)
+- Day 16： 8/18水
+  - Read this tutorial (from Lesson 5 of the Intermediate ML course)
+  - Complete this exercise (from Lesson 5 of the Intermediate ML course)
+  - Read this tutorial (from Lesson 6 of the Intermediate ML course)
+  - Complete this exercise (from Lesson 6 of the Intermediate ML course)
+  - Read this tutorial (from Lesson 7 of the Intermediate ML course)
+  - Complete this exercise (from Lesson 7 of the Intermediate ML course)
 
 Intermediate Machine Learning Course
 ------------------------------------
@@ -61,7 +56,7 @@ Competitions／Datasets／Notebooks／Discussionの全カテゴリで最上位�
 
 履修内容を簡単に思い出しやすいように、上記の図を以下に引用しています。
 
-- 戦略：**パラメーターを変えたモデルをいくつか作り、最適なモデルを選択：**
+### 戦略：パラメーターを変えたモデルをいくつか作り、最適なモデルを選択
 
 - 「モデルバリエーション」コード例：
 
@@ -78,10 +73,11 @@ Competitions／Datasets／Notebooks／Discussionの全カテゴリで最上位�
 - :arrow_down_small:図解：初心者から中級者へ（画像の引用元：<https://twitter.com/AIDay95390248/status/1426671314803347456>）
   ![Beginner to Expert](images/20210818-192417.png)
 
-- 戦略：**欠損値の前処理：**
-  1. 欠損値のある変数列そのものをドロップする
-  2. 補完（impute）する
-  3. 補完したうえで「他の有無」を新たな列に追加して拡張する
+### 戦略：欠損値の前処理
+
+1. 欠損値のある変数列そのものをドロップする
+2. 補完（impute）する
+3. 補完したうえで「他の有無」を新たな列に追加して拡張する
 
 - :arrow_down_small:図解：欠損値の前処理戦略（画像の引用元：<https://twitter.com/AIDay95390248/status/1426990935368478727>）
   ![Tackling missing values with three approaches](images/20210817-131658.png)
@@ -94,17 +90,21 @@ Competitions／Datasets／Notebooks／Discussionの全カテゴリで最上位�
   X_test.drop(cols_with_missing, axis=1, inplace=True)
   ```
 
-- 調査結果：**ある特徴で、何％ぐらいの欠損値なら許容できるか？**
-  - 資料：[What percentage of missing data is acceptable? – Mvorganizing.org](https://www.mvorganizing.org/what-percentage-of-missing-data-is-acceptable/)
-  1. 10％を超える欠損値がある分析では、バイアスが発生する可能性がある
-  2. 40％を超える欠損値がある分析では、仮説的なデータであると考慮すべき
-  3. 理論的には、20～25％が許容されうる最大の欠損値で、それを超えると分析から特徴量変数をドロップ（削除）するのを検討したい
-  - 結論としては、**20％を超える欠損値がある**特徴量変数は、基本的にドロップすることを検討すればよいかな
+#### （調査結果：ある特徴で、何％ぐらいの欠損値なら許容できるか？）
 
-- 戦略：**カテゴリ変数の前処理：**
-  1. カテゴリ変数列そのものをドロップする
-  2. 順序変数（Ordinal variables）に該当するなら`OrdinalEncoder`
-  3. 名義変数（Nominal variables）に該当するなら`OneHotEncoder`や`LabelEncoder`
+- 資料：[What percentage of missing data is acceptable? – Mvorganizing.org](https://www.mvorganizing.org/what-percentage-of-missing-data-is-acceptable/)
+
+1. 10％を超える欠損値がある分析では、バイアスが発生する可能性がある
+2. 40％を超える欠損値がある分析では、仮説的なデータであると考慮すべき
+3. 理論的には、20～25％が許容されうる最大の欠損値で、それを超えると分析から特徴量変数をドロップ（削除）するのを検討したい
+
+- 結論としては、**20％を超える欠損値がある**特徴量変数は、基本的にドロップすることを検討すればよいかな
+
+### 戦略：カテゴリ変数の前処理
+
+1. カテゴリ変数列そのものをドロップする
+2. 順序変数（Ordinal variables）に該当するなら`OrdinalEncoder`
+3. 名義変数（Nominal variables）に該当するなら`OneHotEncoder`や`LabelEncoder`
 
 - :arrow_down_small:図解：カテゴリ変数の前処理戦略（画像の引用元：<https://twitter.com/AIDay95390248/status/1427010668729937920>）
   ![Handling categorical values with three approaches](images/20210817-144708.png)
@@ -122,25 +122,27 @@ Competitions／Datasets／Notebooks／Discussionの全カテゴリで最上位�
   label_X_valid[good_label_cols] = ordinal_encoder.transform(X_valid[good_label_cols])
   ```
 
-- 戦略：**数値とカテゴリの列を取得する前処理：**
+### 戦略：数値とカテゴリの列を取得する前処理
 
-  1. 数値変数は型でint64かfloat64の列だけを抽出
-  2. カテゴリ変数は型でobjectの列だけを抽出
-    ただし、その列の値のユニーク数（＝バリエーション数、カーディナリティ：**cardinality**と呼ぶ）が多すぎる（例えば15以上）と、特にOne-Hotエンコーディングで列数が増えすぎる問題があるので、10未満などに制限するとよい
+1. 数値変数は型でint64かfloat64の列だけを抽出
+2. カテゴリ変数は型でobjectの列だけを抽出
+  ただし、その列の値のユニーク数（＝バリエーション数、カーディナリティ：**cardinality**と呼ぶ）が多すぎる（例えば15以上）と、特にOne-Hotエンコーディングで列数が増えすぎる問題があるので、10未満などに制限するとよい
 
-  - 「数値とカテゴリの列を取得する前処理」コード例：
+- 「数値とカテゴリの列を取得する前処理」コード例：
 
   ```python
   numerical_cols = [cname for cname in train_data.columns if train_data[cname].dtype in ['int64', 'float64']]
   categorical_cols = [cname for cname in train_data.columns if train_data[cname].nunique() < 10 and train_data[cname].dtype == "object"]
   ```
 
-- 戦略：**パイプライン：**
-  1. よりクリーンなコード
-  2. バグの減少
-  3. プロダクト化が容易
-  4. モデル検証のためのより多くのオプション（交差検証など）
-  - `from sklearn.pipeline import Pipeline`
+### 戦略：パイプライン
+
+1. よりクリーンなコード
+2. バグの減少
+3. プロダクト化が容易
+4. モデル検証のためのより多くのオプション（交差検証など）
+
+- `from sklearn.pipeline import Pipeline`
 
 - :arrow_down_small:図解：sklearn.pipeline機能（画像の引用元：<https://twitter.com/AIDay95390248/status/1427389726198222866>）
   ![Pipeline](images/20210818-192608.png)
@@ -181,11 +183,12 @@ Competitions／Datasets／Notebooks／Discussionの全カテゴリで最上位�
   my_pipeline.fit(X_train, y_train)
   ```
 
-- 戦略：**交差検証：**
-  - ホールドアウト法：データを訓練データと検証データに固定的に分割する手法。大規模なデータセットの場合（データが大量にあればそれで十分だから）
-  - 交差検証： より汎化性能が高まるが、時間がかかる問題も。小規模なデータセットの場合（データが少量だと汎化性能に不安がある）
-  - `from sklearn.model_selection import cross_val_score`
-  - 交差検証では、個別のトレーニングセットと検証セットを追跡する必要がなくなって、コードがシンプルになる利点もある
+### 戦略：交差検証
+
+- ホールドアウト法：データを訓練データと検証データに固定的に分割する手法。大規模なデータセットの場合（データが大量にあればそれで十分だから）
+- 交差検証： より汎化性能が高まるが、時間がかかる問題も。小規模なデータセットの場合（データが少量だと汎化性能に不安がある）
+- `from sklearn.model_selection import cross_val_score`
+- 交差検証では、個別のトレーニングセットと検証セットを追跡する必要がなくなって、コードがシンプルになる利点もある
 
 - :arrow_down_small:図解：交差検証（画像の引用元：<https://twitter.com/AIDay95390248/status/1427398494353076225>）
   ![Cross Validation](images/20210818-192802.png)
@@ -214,11 +217,12 @@ Competitions／Datasets／Notebooks／Discussionの全カテゴリで最上位�
 
   - scilit-learnの評価指標は「値が大きいほど性能が良い」という基準にしているため、交差検証のスコアリング指標を指定する`scoring`引数にMAEを指定したい場合、「neg_」が付いた`'neg_mean_absolute_error'`を使用する必要がある。負（マイナス）が掛けられた状態の値なので、最終的に`-1`を掛けて符号を逆転させる必要がある。
 
-- 戦略：**アンサンブル学習：**
-  - ランダムフォレスト法： 決定木のアンサンブル学習
-  - 勾配ブースティング法： アンサンブルにモデルを反復的に追加するサイクルを経るアンサンブル学習の手法。以下のものがscikit-learnで使える
-    - [GradientBoostingRegressor](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingRegressor.html)
-    - [XGBRegressor](https://xgboost.readthedocs.io/en/latest/python/python_api.html)＝こちらの方が高速で優れている
+### 戦略：アンサンブル学習
+
+- ランダムフォレスト法： 決定木のアンサンブル学習
+- 勾配ブースティング法： アンサンブルにモデルを反復的に追加するサイクルを経るアンサンブル学習の手法。以下のものがscikit-learnで使える
+  - [GradientBoostingRegressor](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingRegressor.html)
+  - [XGBRegressor](https://xgboost.readthedocs.io/en/latest/python/python_api.html)＝こちらの方が高速で優れている
 
 - :arrow_down_small:図解：アンサンブル法（画像の引用元：<https://twitter.com/AIDay95390248/status/1427770959784812544>）
   ![Ensemble method](images/20210818-193006.png)
@@ -266,8 +270,9 @@ Competitions／Datasets／Notebooks／Discussionの全カテゴリで最上位�
 preds_test = (preds_test_xgb + preds_test_rf) / 2
 ```
 
-- 戦略：**データ漏えい（Data Leakage）の回避：**
-  1. ターゲットの漏えい（Target leakage）：
-    例えば肺炎をターゲットに予測するのに「肺炎の薬の使用」が訓練データに含まれているなど。実際に将来予測では使えない特徴量が訓練データに含まれてしまっている。
-  2. 訓練-テストの汚染（Train-Test Contamination）：
-    `train_test_split()`を呼び出す前に、欠損値の前処理などを行うと、検証データを含めて訓練することになってしまう、つまり汎化性能を失うのでやってはいけない。各種フィッティングの前に検証データを除外しておくこと。交差検証では、パイプラインで前処理を行うこと。
+### 戦略：データ漏えい（Data Leakage）の回避
+
+1. ターゲットの漏えい（Target leakage）：
+  例えば肺炎をターゲットに予測するのに「肺炎の薬の使用」が訓練データに含まれているなど。実際に将来予測では使えない特徴量が訓練データに含まれてしまっている。
+2. 訓練-テストの汚染（Train-Test Contamination）：
+  `train_test_split()`を呼び出す前に、欠損値の前処理などを行うと、検証データを含めて訓練することになってしまう、つまり汎化性能を失うのでやってはいけない。各種フィッティングの前に検証データを除外しておくこと。交差検証では、パイプラインで前処理を行うこと。
