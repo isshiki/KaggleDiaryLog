@@ -10,7 +10,7 @@ Kaggleで作業した日々の内容を書きつづった日誌のうち、コ�
 
 ### [【competitions】フォルダー](https://github.com/isshiki/KaggleDiaryLog/tree/main/competitions): コンペの日記とノートブックを置く場所
 
-- [Kaggle日記： kaggle機能や分類問題の**実験場**](https://github.com/isshiki/KaggleDiaryLog/blob/main/competitions/titanic/Diary.md)
+- [Kaggle日記： Kaggle機能や分類問題の**実験場**](https://github.com/isshiki/KaggleDiaryLog/blob/main/competitions/titanic/Diary.md)
 - [Kaggle日記： 回帰問題の**実験場**](https://github.com/isshiki/KaggleDiaryLog/blob/main/competitions/house-prices-advanced-regression-techniques/Diary.md)
 
 ### [【datasets】フォルダー](https://github.com/isshiki/KaggleDiaryLog/tree/main/datasets): データセットとその日記を置く場所
