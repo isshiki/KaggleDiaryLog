@@ -1,5 +1,5 @@
 Kaggle日記（2021年8月14日～18日）： Kaggle公式講座「Intermediate Machine Learning」の履修
-===============================
+=========================================================================================
 
 2021年8月2日から開催されたKaggle公式「[30 Days of ML](https://www.kaggle.com/thirty-days-of-ml)」プログラムに沿って、2週目の3日間（＋3週目の2日）で、
 
@@ -44,7 +44,7 @@ Kaggle’s 30 Days of ML Daily Assignments
   - Complete this exercise (from Lesson 7 of the Intermediate ML course)
 
 Intermediate Machine Learning Course
-------------------------------------
+----------------------------------------
 
 Competitions／Datasets／Notebooks／Discussionの全カテゴリで最上位の称号（＝4GM、4x Kaggle Grandmaster）を獲得したAbhishek Thakur氏（『Kaggle Grandmasterに学ぶ 機械学習 実践アプローチ』／"Approaching (Almost) Any Machine Learning Problem"の著者）による下記の解説動画も全て視聴しました。
 

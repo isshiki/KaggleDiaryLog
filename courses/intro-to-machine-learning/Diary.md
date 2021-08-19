@@ -1,5 +1,5 @@
 Kaggle日記（2021年8月10日～13日）： Kaggle公式講座「Intro to Machine Learning」の履修
-===============================
+=====================================================================================
 
 2021年8月2日から開催されたKaggle公式「[30 Days of ML](https://www.kaggle.com/thirty-days-of-ml)」プログラムに沿って、2週目の4日間で、
 
@@ -41,7 +41,7 @@ Kaggle’s 30 Days of ML Daily Assignments
   - Complete this exercise (from Lesson 7 of the Intro to ML course)
 
 Intro to Machine Learning Course
---------------------------------
+----------------------------------------
 
 Competitions／Datasets／Notebooks／Discussionの全カテゴリで最上位の称号（＝4GM、4x Kaggle Grandmaster）を獲得したAbhishek Thakur氏（『Kaggle Grandmasterに学ぶ 機械学習 実践アプローチ』／"Approaching (Almost) Any Machine Learning Problem"の著者）による下記の解説動画も全て視聴しました。
 
