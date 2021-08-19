@@ -15,7 +15,7 @@ Kaggleで作業した日々の内容を書きつづった日誌のうち、コ�
 
 ### :bar_chart:[［datasets］フォルダー](https://github.com/isshiki/KaggleDiaryLog/tree/main/datasets): データセット
 
-### :computer:[［code］フォルダー](https://github.com/isshiki/KaggleDiaryLog/tree/main/code): コンペ以外のコード
+### :computer:[［code］フォルダー](https://github.com/isshiki/KaggleDiaryLog/tree/main/code): 上記以外
 
 ### :busts_in_silhouette:[［courses］フォルダー](https://github.com/isshiki/KaggleDiaryLog/tree/main/courses): Kaggle公式講座
 
