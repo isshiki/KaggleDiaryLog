@@ -44,8 +44,8 @@ Kaggle’s 30 Days of ML Daily Assignments
 - Read this tutorial (from Lesson 7 of the Intro to ML course)
 - Complete this exercise (from Lesson 7 of the Intro to ML course)
 
-Python Course
-----------------------------------------
+Intro to Machine Learning Course
+--------------------------------
 
 Competitions／Datasets／Notebooks／Discussionの全カテゴリで最上位の称号（＝4GM、4x Kaggle Grandmaster）を獲得したAbhishek Thakur氏（『Kaggle Grandmasterに学ぶ 機械学習 実践アプローチ』／"Approaching (Almost) Any Machine Learning Problem"の著者）による下記の解説動画も全て視聴しました。
 
