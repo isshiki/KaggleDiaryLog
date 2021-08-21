@@ -33,7 +33,7 @@ Kaggle公式講座への参加者のために用意された住宅価格コン�
     - [[20210818] :astonished:7回目提出。アンサンブル学習を適用した](#20210818-astonished7回目提出アンサンブル学習を適用した)
       - [:+1: [v7：Improved]【14964.89501】(486／17719：Top 3％) Notebook Intermediate ML Course Exercise 6 of 7 | Version 7](#1-v7improved149648950148617719top-3-notebook-intermediate-ml-course-exercise-6-of-7--version-7)
     - [[20210818] :astonished:目標達成のため提出なし。データ漏えいの問題を学んだ](#20210818-astonished目標達成のため提出なしデータ漏えいの問題を学んだ)
-    - [[20210819] :cry:［おまけ］最終提出。清書し直して、前処理をもう少しちゃんと書いたうえで、Azure AutoMLの結果をアンサンブルで出力した](#20210819-cryおまけ最終提出清書し直して前処理をもう少しちゃんと書いたうえでazure-automlの結果をアンサンブルで出力した)
+    - [[20210820] :man_playing_handball:［おまけ］最終提出。清書し直して、前処理をもう少しちゃんと書いたうえで、Azure AutoMLの結果をアンサンブルで出力した](#20210820-man_playing_handballおまけ最終提出清書し直して前処理をもう少しちゃんと書いたうえでazure-automlの結果をアンサンブルで出力した)
       - [:+1: [v8：Improved]【14093.71916】(128／18798：Top 1％) Notebook Final model of the house price compe | Version 8](#1-v8improved140937191612818798top-1-notebook-final-model-of-the-house-price-compe--version-8)
   - [［おまけ］Azure AutoMLを使いこなす](#おまけazure-automlを使いこなす)
 
@@ -436,7 +436,7 @@ preds_test = (preds_test_xgb + preds_test_rf) / 2
   2. 訓練-テストの汚染（Train-Test Contamination）：
     `train_test_split()`を呼び出す前に、欠損値の前処理などを行うと、検証データを含めて訓練することになってしまう、つまり汎化性能を失うのでやってはいけない。各種フィッティングの前に検証データを除外しておくこと。交差検証では、パイプラインで前処理を行うこと。
 
-### [20210819] :cry:［おまけ］最終提出。清書し直して、前処理をもう少しちゃんと書いたうえで、Azure AutoMLの結果をアンサンブルで出力した
+### [20210820] :man_playing_handball:［おまけ］最終提出。清書し直して、前処理をもう少しちゃんと書いたうえで、Azure AutoMLの結果をアンサンブルで出力した
 
 - Kaggleノートブックではなく、ローカル環境のVisual Studio CodeでJupyterノートブックを作って作業すると、3倍くらい高速になった。
 - WindowsのVS Codeだと、改行がCR+LFになることがあり、そのノートブックを既存のKaggleノートブックにアップロードすると（※上書きアップロードしかできない）、改行問題でエラーになる。
