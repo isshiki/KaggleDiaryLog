@@ -140,7 +140,7 @@ Competitions／Datasets／Notebooks／Discussionの全カテゴリで最上位�
 1. よりクリーンなコード
 2. バグの減少
 3. プロダクト化が容易
-4. モデル検証のためのより多くのオプション（交差検証など）
+4. モデル検証のためのより多くのオプション（交差検証やパラメーター探索など）
 
 - `from sklearn.pipeline import Pipeline`
 
@@ -183,6 +183,18 @@ Competitions／Datasets／Notebooks／Discussionの全カテゴリで最上位�
   my_pipeline.fit(X_train, y_train)
   ```
 
+以下の外部ライブラリは、scikit-learnのパイプラインでも使える。
+
+- **XGBoost**のscikit-learn wrapper api:
+  - [Python API Reference — xgboost 1.5.0-dev documentation](https://xgboost.readthedocs.io/en/latest/python/python_api.html#module-xgboost.sklearn)
+- **LightGBM**のscikit-learn wrapper api:
+  - [Python API — LightGBM 3.2.1.99 documentation](https://lightgbm.readthedocs.io/en/latest/Python-API.html#scikit-learn-api)
+- **TensorFlow/Keras**のscikit-learn wrapper api：
+  - [Scikit-learn API - Keras Documentation](https://keras.io/ja/scikit-learn-api/)
+  - [tf.keras.wrappers.scikit_learn.KerasRegressor  |  TensorFlow Core v2.6.0](https://www.tensorflow.org/api_docs/python/tf/keras/wrappers/scikit_learn/KerasRegressor)
+- **PyTorch**のscikit-learn wrapper api:
+  - [skorch documentation — skorch 0.10.0 documentation](https://skorch.readthedocs.io/en/stable/#)
+
 ### 戦略：交差検証
 
 - ホールドアウト法：データを訓練データと検証データに固定的に分割する手法。大規模なデータセットの場合（データが大量にあればそれで十分だから）
@@ -216,6 +228,16 @@ Competitions／Datasets／Notebooks／Discussionの全カテゴリで最上位�
   ```
 
   - scilit-learnの評価指標は「値が大きいほど性能が良い」という基準にしているため、交差検証のスコアリング指標を指定する`scoring`引数にMAEを指定したい場合、「neg_」が付いた`'neg_mean_absolute_error'`を使用する必要がある。負（マイナス）が掛けられた状態の値なので、最終的に`-1`を掛けて符号を逆転させる必要がある。
+
+### 戦略：ハイパーパラメータ探索／ハイパーパラメーターチューニング
+
+教材には出てこなかったが、これも学んだ方がいい。
+
+- GridsearchCVもしくはOptuna
+- 参考：[XGBoost with Scikit-Learn Pipeline & GridSearchCV | Kaggle](https://www.kaggle.com/carlosdg/xgboost-with-scikit-learn-pipeline-gridsearchcv)
+- 実装例：[sklearn.model_selection.GridSearchCV — scikit-learn 0.24.2 documentation](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html)
+- 実装例：[Re-use the best values — Optuna 2.9.1 documentation](https://optuna.readthedocs.io/en/stable/tutorial/20_recipes/010_reuse_best_trial.html?highlight=sklearn)
+- [Grid Search (GS)、Random Search (RS)、Bayes Search (BS) の比較](https://www.renom.jp/ja/notebooks/tutorial/basic_algorithm/searcher/notebook.html)
 
 ### 戦略：アンサンブル学習
 

@@ -26,7 +26,7 @@ Kaggle公式講座への参加者のために用意された住宅価格コン�
       - [:+1: [v3：Improved]【16766.44379】(7030／14393：Top 49％) Notebook Intermediate ML Course Exercise 2 of 7 | Version 3](#1-v3improved1676644379703014393top-49-notebook-intermediate-ml-course-exercise-2-of-7--version-3)
     - [[20210816] :cry:4回目提出。カテゴリ変数の列を処理した](#20210816-cry4回目提出カテゴリ変数の列を処理した)
       - [:-1: [v4：Worsened]【17471.74584】(-) Notebook Intermediate ML Course Exercise 3 of 7 | Version 4](#-1-v4worsened1747174584--notebook-intermediate-ml-course-exercise-3-of-7--version-4)
-    - [[20210817] :cry:5回目提出。パイプラインを仕様して結線値とカテゴリ変数の前処理をまとめた](#20210817-cry5回目提出パイプラインを仕様して結線値とカテゴリ変数の前処理をまとめた)
+    - [[20210817] :cry:5回目提出。パイプラインを使用して欠損値とカテゴリ変数の前処理をまとめた](#20210817-cry5回目提出パイプラインを使用して欠損値とカテゴリ変数の前処理をまとめた)
       - [:point_right: [v5：NotChanged]【16721.95257】(9955／17145：Top 59％) Notebook Intermediate ML Course Exercise 4 of 7 | Version 5](#point_right-v5notchanged1672195257995517145top-59-notebook-intermediate-ml-course-exercise-4-of-7--version-5)
     - [[20210818] :smile:6回目提出。交差検証を適用した](#20210818-smile6回目提出交差検証を適用した)
       - [:+1: [v6：Improved]【16241.51793】(1246／17661：Top 8％) Notebook Intermediate ML Course Exercise 5 of 7 | Version 6](#1-v6improved1624151793124617661top-8-notebook-intermediate-ml-course-exercise-5-of-7--version-6)
@@ -247,13 +247,13 @@ Kaggleの最初の学習用コンペで、私が最初にやったことが他�
     →　一色：いいね！
 -->
 
-### [20210817] :cry:5回目提出。パイプラインを仕様して結線値とカテゴリ変数の前処理をまとめた
+### [20210817] :cry:5回目提出。パイプラインを使用して欠損値とカテゴリ変数の前処理をまとめた
 
 - 戦略：**パイプライン：**
   1. よりクリーンなコード
   2. バグの減少
   3. プロダクト化が容易
-  4. モデル検証のためのより多くのオプション（交差検証など）
+  4. モデル検証のためのより多くのオプション（交差検証やパラメーター探索など）
   - `from sklearn.pipeline import Pipeline`
 
 - :arrow_down_small:図解：sklearn.pipeline機能（画像の引用元：<https://twitter.com/AIDay95390248/status/1427389726198222866>）
