@@ -12,6 +12,7 @@ Kaggleで作業した日々の内容を書きつづった日誌のうち、コ�
 
 - [Kaggle日記： Kaggle機能や分類問題の:lab_coat:**実験場**](https://github.com/isshiki/KaggleDiaryLog/blob/main/competitions/titanic/Diary.md)
 - [Kaggle日記： 回帰問題の:lab_coat:**実験場**](https://github.com/isshiki/KaggleDiaryLog/blob/main/competitions/house-prices-advanced-regression-techniques/Diary.md)
+- [Kaggle日記（2021年8月13日～18日、おまけ：20日）： コンペ「Housing Prices Competition for Kaggle Learn Users」](https://github.com/isshiki/KaggleDiaryLog/blob/main/competitions/home-data-for-ml-course/Diary.md)
 
 ### :bar_chart:[［datasets］フォルダー](https://github.com/isshiki/KaggleDiaryLog/tree/main/datasets): データセット
 
