@@ -464,7 +464,7 @@ preds_test = (preds_test_xgb + preds_test_rf) / 2
 
 実験によって50個ほどのモデルが作成され、精度が良い順に並びます。
 
-![実験によって作成された50個ほどのモデル](images/automl-models_S.png)
+![実験によって作成された50個ほどのモデル](images/automl-models_s.png)
 
 解釈性（XAI）に関する機能もあり、例えば特徴量の重要性をグラフ化したりできます。
 
