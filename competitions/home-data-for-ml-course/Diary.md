@@ -34,7 +34,7 @@ Kaggle公式講座への参加者のために用意された住宅価格コン�
       - [:+1: [v7：Improved]【14964.89501】(486／17719：Top 3％) Notebook Intermediate ML Course Exercise 6 of 7 | Version 7](#1-v7improved149648950148617719top-3-notebook-intermediate-ml-course-exercise-6-of-7--version-7)
     - [[20210818] :astonished:目標達成のため提出なし。データ漏えいの問題を学んだ](#20210818-astonished目標達成のため提出なしデータ漏えいの問題を学んだ)
     - [[20210819] :cry:［おまけ］最終提出。清書し直して、前処理をもう少しちゃんと書いたうえで、Azure AutoMLの結果をアンサンブルで出力した](#20210819-cryおまけ最終提出清書し直して前処理をもう少しちゃんと書いたうえでazure-automlの結果をアンサンブルで出力した)
-      - [:+1: [v8：Improved]【15360.00696】(-) Notebook Final model of the house price compe | Version 8](#1-v8improved1536000696--notebook-final-model-of-the-house-price-compe--version-8)
+      - [:+1: [v8：Improved]【4093.71916】(128／18798：Top 1％) Notebook Final model of the house price compe | Version 8](#1-v8improved40937191612818798top-1-notebook-final-model-of-the-house-price-compe--version-8)
   - [［おまけ］Azure AutoMLを使いこなす](#おまけazure-automlを使いこなす)
 
 目標
@@ -443,7 +443,7 @@ preds_test = (preds_test_xgb + preds_test_rf) / 2
   - → VS Codeで作ったKaggleワークスペース限定で`"files.eol": "\n"`を入れることで問題を回避できることを確認した。
   - 参考：[Always use LF instead of CRLF for *.ipynb files regardless of platform · Issue #4576 · microsoft/vscode-jupyter](https://github.com/microsoft/vscode-jupyter/issues/4576)
 
-#### :+1: [v8：Improved]【15360.00696】(-) Notebook Final model of the house price compe | Version 8
+#### :+1: [v8：Improved]【4093.71916】(128／18798：Top 1％) Notebook Final model of the house price compe | Version 8
 
 - Azure Machine LerningのAutoMLを試した。
 - VotingEnsemble、StackEnsemble、XGBoostRegressor、ElasticNet、LightGBMが上位に来て、それなりに好成績になったが、v7を超えられなかった。
