@@ -18,6 +18,8 @@ Kaggleで作業した日々の内容を書きつづった日誌のうち、コ�
 
 ### :computer:[［code］フォルダー](https://github.com/isshiki/KaggleDiaryLog/tree/main/code): 上記以外
 
+- [ノートブック： Kaggle APIの使い方](https://github.com/isshiki/KaggleDiaryLog/blob/main/code/kaggle-api/notebooks/KaggleAPI.ipynb)
+
 ### :busts_in_silhouette:[［courses］フォルダー](https://github.com/isshiki/KaggleDiaryLog/tree/main/courses): Kaggle公式講座
 
 - [Kaggle日記（2021年8月3日～9日）： Kaggle公式講座「Python」の履修](https://github.com/isshiki/KaggleDiaryLog/blob/main/courses/python/Diary.md)

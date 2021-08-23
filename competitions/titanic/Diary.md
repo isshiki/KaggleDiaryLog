@@ -13,3 +13,7 @@ Kaggleの入門として最初に取り組む、
 ### [20210801] :smile: EDAを試した
 
 - EDAについてはもっと研究が必要なので、またいつか実施する
+
+### [20210823] :hammer: Kaggle APIの使い方を調査した
+
+- [Kaggle APIの使い方](https://github.com/isshiki/KaggleDiaryLog/blob/main/code/kaggle-api/notebooks/KaggleAPI.ipynb)
