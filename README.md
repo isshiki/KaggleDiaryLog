@@ -43,14 +43,19 @@ Kaggleで作業した日々の内容を書きつづった日誌のうち、コ�
 - コンペ参加時のアイデア管理／実験計画には、GitHubのプロジェクトボードを使う。
 - 参考：「[Kaggle日記という戦い方](https://zenn.dev/fkubota/articles/3d8afb0e919b555ef068)」
 
-コンペ提出情報の書き方フォーマット
+コンペ提出ログの書き方フォーマット
 ----------------------------------
 
-`:+1: :-1: :point_right: [バージョン番号：Baseline／Improved／NotChanged／Worsened]【Public Score】（順位：Top ？％）簡易説明`
-
-:+1: :-1: :point_right: [バージョン番号：Baseline／Improved／NotChanged／Worsened]【Public Score】（順位：Top ？％）簡易説明
-
+- `:+1: :-1: :point_right: [バージョン番号：Baseline／Improved／NotChanged／Worsened]【Public Score】（順位：Top ？％）簡易説明`
+- :+1: :-1: :point_right: [バージョン番号：Baseline／Improved／NotChanged／Worsened]【Public Score】（順位：Top ？％）簡易説明
 - [🎁 絵文字を探す](https://www.webfx.com/tools/emoji-cheat-sheet/)
+
+コンペ提出時の説明欄の書き方フォーマット
+----------------------------------
+
+- 例：Notebook <NotebookName> | Model v3
+- 例：Azure AutoML - LightGBM | Model v5
+- バージョン部分は、コミットバージョンと区別するため、「Model v＜バージョン番号＞」という書き方にする
 
 コンペのチーム戦について
 ----------------------------------
