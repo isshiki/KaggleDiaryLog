@@ -53,7 +53,7 @@ Kaggleで作業した日々の内容を書きつづった日誌のうち、コ�
 コンペ提出時の説明欄の書き方フォーマット
 ----------------------------------
 
-- 例：Notebook <NotebookName> | Model v3
+- 例：Notebook \<NotebookName> | Model v3
 - 例：Azure AutoML - LightGBM | Model v5
 - バージョン部分は、コミットバージョンと区別するため、「Model v＜バージョン番号＞」という書き方にする
 
