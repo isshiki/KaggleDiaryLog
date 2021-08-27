@@ -19,35 +19,35 @@ Kaggle’s 30 Days of ML Daily Assignments
 
 リンクはカットしました。
 
-- Day 1: 8/3
-  - [Follow the instructions in this notebook](https://www.kaggle.com/alexisbcook/getting-started-with-kaggle) to get started with Kaggle
-  - Join 30 Days of ML Discord Community and introduce yourself in the #introductions channel
+- 1日目：8月3日
+  - [このノートブックの指示に従って](https://www.kaggle.com/alexisbcook/getting-started-with-kaggle) Kaggleを始める
+  - 30 Days of ML の Discord コミュニティに参加し、#introductions チャンネルで自己紹介をする
 
-- Day 2: 8/4
-  - Read this tutorial (from Lesson 1 of the Python course)
-  - Complete this exercise (from Lesson 1 of the Python course)
+- 第2日目：8月4日
+  - このチュートリアルを読む（Pythonコースのレッスン1より）
+  - この演習問題を解く（Pythonコースのレッスン1より）
 
-- Day 3: 8/5
-  - Read this tutorial (from Lesson 2 of the Python course)
-  - Complete this exercise (from Lesson 2 of the Python course)
+- 3日目：8月5日
+  - このチュートリアルを読む（Pythonコースのレッスン2より）
+  - この演習問題を完了する（Pythonコースのレッスン2より）
 
-- Day 4: 8/6
-  - Read this tutorial (from Lesson 3 of the Python course)
-  - Complete this exercise (from Lesson 3 of the Python course)
+- 4日目：8/6
+  - このチュートリアルを読む（Pythonコースのレッスン3より）
+  - この演習問題を完了する（Pythonコースのレッスン3より）
 
-- Day 5: 8/7
-  - Read this tutorial (from Lesson 4 of the Python course)
-  - Complete this exercise (from Lesson 4 of the Python course)
-  - Read this tutorial (from Lesson 5 of the Python course)
-  - Complete this exercise (from Lesson 5 of the Python course)
+- 5日目：8月7日
+  - このチュートリアルを読む（Pythonコースのレッスン4より）
+  - この演習問題を完了する（Pythonコースのレッスン4より）
+  - このチュートリアルを読む（Pythonコースのレッスン5より）
+  - この演習問題を完了する（Pythonコースのレッスン5より）
 
-- Day 6: 8/8
-  - Read this tutorial (from Lesson 6 of the Python course)
-  - Complete this exercise (from Lesson 6 of the Python course)
+- 6日目：8月8日
+  - このチュートリアルを読む（Pythonコースのレッスン6より）
+  - この演習問題を完了する（Pythonコースのレッスン6より）
 
-- Day 7: 8/9
-  - Read this tutorial (from Lesson 7 of the Python course)
-  - Complete this exercise (from Lesson 7 of the Python course)
+- 7日目：8月9日
+  - このチュートリアルを読む（Python コースのレッスン7より）
+  - この演習問題を完了する（Pythonコースのレッスン7より）
 
 Python Course
 ----------------------------------------

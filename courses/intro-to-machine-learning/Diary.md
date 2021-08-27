@@ -19,26 +19,26 @@ Kaggle’s 30 Days of ML Daily Assignments
 
 リンクはカットしました。
 
-- Day 8: 8/10
-  - Read this tutorial (from Lesson 1 of the Intro to ML course)
-  - Read this tutorial (from Lesson 2 of the Intro to ML course)
-  - Complete this exercise (from Lesson 2 of the Intro to ML course)
+- 8日目：8月10日
+  - このチュートリアルを読む（ML入門コースのレッスン1より）
+  - このチュートリアルを読む（ML入門コースのレッスン2より）
+  - この演習問題を解く（ML入門コースのレッスン2より）
 
-- Day 9: 8/11
-  - Read this tutorial (from Lesson 3 of the Intro to ML course)
-  - Complete this exercise (from Lesson 3 of the Intro to ML course)
-  - Read this tutorial (from Lesson 4 of the Intro to ML course)
-  - Complete this exercise (from Lesson 4 of the Intro to ML course)
+- 9日目：8月11日
+  - このチュートリアルを読む（ML入門コースのレッスン3より）
+  - この演習問題を解く（ML入門コースのレッスン3より）
+  - このチュートリアルを読む（「ML入門」コースのレッスン4から）
+  - この演習問題を解く（ML入門コースのレッスン4より）
 
-- Day 10: 8/12
-  - Read this tutorial (from Lesson 5 of the Intro to ML course)
-  - Complete this exercise (from Lesson 5 of the Intro to ML course)
-  - Read this tutorial (from Lesson 6 of the Intro to ML course)
-  - Complete this exercise (from Lesson 6 of the Intro to ML course)
+- 10日目：8月12日
+  - このチュートリアルを読む（ML入門コースのレッスン5より）
+  - この演習問題を解く（ML入門コースのレッスン5より）
+  - このチュートリアルを読む（ML入門コースのレッスン6より）
+  - この演習を完了する（ML入門コースのレッスン6より）
 
-- Day 11 8/13
-  - Read this tutorial (from Lesson 7 of the Intro to ML course)
-  - Complete this exercise (from Lesson 7 of the Intro to ML course)
+- 11日目：8月13日
+  - このチュートリアルを読む（ML入門コースのレッスン7より）
+  - この練習問題を解く（ML入門コースのレッスン7より）
 
 Intro to Machine Learning Course
 ----------------------------------------

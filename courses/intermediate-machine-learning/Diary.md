@@ -19,29 +19,31 @@ Kaggle’s 30 Days of ML Daily Assignments
 
 リンクはカットしました。ちょっとボリュームが多くて2日間ほど遅れました...。
 
-- Day 12： 8/14土
-  - Read this tutorial (from Lesson 1 of the Intermediate ML course)
-  - Complete this exercise (from Lesson 1 of the Intermediate ML course)
+- 12日目：8月14日
+  - このチュートリアルを読む（中級MLコースのレッスン1より）
+  - この練習問題を解く（中級MLコースのレッスン1より）
+- 13日目： 8月15日
+  - このチュートリアルを読む（中級MLコースのレッスン2より）＜本来は12目の宿題＞
+  - この練習問題を解く（中級MLコースのレッスン2より）＜本来は12目の宿題＞
+- 14日目： 8月16日
+  - このチュートリアルを読む（中級MLコースのレッスン3より）＜本来は12目の宿題＞
+  - この練習問題を解く（中級MLコースのレッスン3より）＜本来は12目の宿題＞
 
-- Day 13： 8/15日
-  - Read this tutorial (from Lesson 2 of the Intermediate ML course)
-  - Complete this exercise (from Lesson 2 of the Intermediate ML course)
+---
 
-- Day 14： 8/16月
-  - Read this tutorial (from Lesson 3 of the Intermediate ML course)
-  - Complete this exercise (from Lesson 3 of the Intermediate ML course)
+- 15日目： 8月17日（遅れ1日目）
+  - このチュートリアルを読む（中級MLコースのレッスン4より）＜本来は13目の宿題＞
+  - この練習問題を解く（中級MLコースのレッスン4より）＜本来は13目の宿題＞
+- 16日目： 8月18日
+  - このチュートリアルを読む（中級MLコースのレッスン5より）＜本来は13目の宿題＞
+  - この練習問題を解く（中級MLコースのレッスン5より）＜本来は13目の宿題＞
 
-- Day 15： 8/17火
-  - Read this tutorial (from Lesson 4 of the Intermediate ML course)
-  - Complete this exercise (from Lesson 4 of the Intermediate ML course)
+---
 
-- Day 16： 8/18水
-  - Read this tutorial (from Lesson 5 of the Intermediate ML course)
-  - Complete this exercise (from Lesson 5 of the Intermediate ML course)
-  - Read this tutorial (from Lesson 6 of the Intermediate ML course)
-  - Complete this exercise (from Lesson 6 of the Intermediate ML course)
-  - Read this tutorial (from Lesson 7 of the Intermediate ML course)
-  - Complete this exercise (from Lesson 7 of the Intermediate ML course)
+- 16日目： 8月18日（遅れ2日目）
+  - このチュートリアルを読む（中級MLコースのレッスン6より）＜本来は14目の宿題＞
+  - この練習問題を解く（中級MLコースのレッスン6より）＜本来は14目の宿題＞
+  - このチュートリアルを読む（中級MLコースのレッスン7より）＜本来は14目の宿題＞
 
 Intermediate Machine Learning Course
 ----------------------------------------
