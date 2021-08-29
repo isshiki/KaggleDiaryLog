@@ -135,6 +135,7 @@ Competitions／Datasets／Notebooks／Discussionの全カテゴリで最上位�
   ```python
   numerical_cols = [cname for cname in train_data.columns if train_data[cname].dtype in ['int64', 'float64']]
   categorical_cols = [cname for cname in train_data.columns if train_data[cname].nunique() < 10 and train_data[cname].dtype == "object"]
+  my_cols = categorical_cols + numerical_cols
   ```
 
 ### 戦略：パイプライン
