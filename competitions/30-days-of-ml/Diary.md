@@ -31,7 +31,6 @@ Kaggle公式講座への参加者のために用意された回帰問題コン�
       - [:+1: [v7：v6：Improved]【0.71871】(1389／6878：Top 20％) Notebook 30 Days -v7- Model Blending | Model v7.0](#1-v7v6improved07187113896878top-20-notebook-30-days--v7--model-blending--model-v70)
       - [:point_right: [v8：NotChanged]【0.71872】(-) Notebook 30 Days -v8- Model Stacking | Model v8.1](#point_right-v8notchanged071872--notebook-30-days--v8--model-stacking--model-v81)
   - [作業履歴（コンテスト後の復習）](#作業履歴コンテスト後の復習)
-    - [[202109--]テスト書き込み](#202109--テスト書き込み)
 
 目標
 ----------------------------------------
@@ -68,9 +67,8 @@ Kaggle公式講座への参加者のために用意された回帰問題コン�
 方針
 ----------------------------------------
 
-[Abhishek Thakur氏のYouTube講座「Kaggle's 30 Days of ML」のCompetition Part-1～7 ](https://www.youtube.com/playlist?list=PL98nY_tJQXZnP-k3qCDd1hljVSciDV9_N)」の内容に合わせて、学びながら進め、少しずつ改善していく。それに合わせて少しずつ精度向上させたい。
-
-誰でも真似できる内容にして、記事化につなげたい。
+- 「[Abhishek Thakur氏のYouTube講座「Kaggle's 30 Days of ML」のCompetition Part-1～7 ](https://www.youtube.com/playlist?list=PL98nY_tJQXZnP-k3qCDd1hljVSciDV9_N)」の内容に合わせて、学びながら進め、少しずつ改善していく。それに合わせて少しずつ精度向上させたい。
+- 誰でも真似できる内容にして、記事化につなげたい。
 
 記事化
 ----------------------------------------
@@ -157,6 +155,7 @@ Kaggle初心者用コンペで、私が最初にやったことが他の人の�
 作業履歴（コンテスト後の復習）
 ----------------------------------------
 
-### [202109--]テスト書き込み
+まだ勉強できていない...。
 
-- [Top 7% solution/ automated EDA | Kaggle](https://www.kaggle.com/boneacrabonjac/top-7-solution-automated-eda?scriptVersionId=71994983)
+- [1st Place Solution](https://www.kaggle.com/c/30-days-of-ml/discussion/269541)
+- 
