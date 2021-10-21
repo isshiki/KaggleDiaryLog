@@ -26,9 +26,9 @@ Kaggle公式講座への参加者のために用意された回帰問題コン�
       - [:point_right: [v4：NotChanged]【0.72241】(-) Notebook 30 Days -v4 - Feature Engineering Model v4.0](#point_right-v4notchanged072241--notebook-30-days--v4---feature-engineering-model-v40)
       - [:point_right: [v5：NotChanged]【0.72256】(-) Notebook 30 Days -v5- Target encoding | Model v5.0](#point_right-v5notchanged072256--notebook-30-days--v5--target-encoding--model-v50)
     - [[20210830]:full_moon_with_face:6回目提出。ハイパーパラメーターチューニングを試した](#20210830full_moon_with_face6回目提出ハイパーパラメーターチューニングを試した)
-      - [:+1: [v6：v6：Improved]【0.71903】(1536／6878：Top 23％) Notebook 30 Days -v6- Hyperparameter tuning | Model v6.8](#1-v6v6improved07190315366878top-23-notebook-30-days--v6--hyperparameter-tuning--model-v68)
+      - [:+1: [v6：Improved]【0.71903】(1536／6878：Top 23％) Notebook 30 Days -v6- Hyperparameter tuning | Model v6.8](#1-v6improved07190315366878top-23-notebook-30-days--v6--hyperparameter-tuning--model-v68)
     - [[20210831]:full_moon_with_face:7～8回目提出。Model Blending／Stackingを試した](#20210831full_moon_with_face78回目提出model-blendingstackingを試した)
-      - [:+1: [v7：v6：Improved]【0.71871】(1389／6878：Top 20％) Notebook 30 Days -v7- Model Blending | Model v7.0](#1-v7v6improved07187113896878top-20-notebook-30-days--v7--model-blending--model-v70)
+      - [:+1: [v7：Improved]【0.71871】(1389／6878：Top 20％) Notebook 30 Days -v7- Model Blending | Model v7.0](#1-v7improved07187113896878top-20-notebook-30-days--v7--model-blending--model-v70)
       - [:point_right: [v8：NotChanged]【0.71872】(-) Notebook 30 Days -v8- Model Stacking | Model v8.1](#point_right-v8notchanged071872--notebook-30-days--v8--model-stacking--model-v81)
   - [作業履歴（コンテスト後の復習）](#作業履歴コンテスト後の復習)
 
@@ -126,7 +126,7 @@ Kaggle初心者用コンペで、私が最初にやったことが他の人の�
 
 ### [20210830]:full_moon_with_face:6回目提出。ハイパーパラメーターチューニングを試した
 
-#### :+1: [v6：v6：Improved]【0.71903】(1536／6878：Top 23％) Notebook 30 Days -v6- Hyperparameter tuning | Model v6.8
+#### :+1: [v6：Improved]【0.71903】(1536／6878：Top 23％) Notebook 30 Days -v6- Hyperparameter tuning | Model v6.8
 
 - 下記動画の内容そのまま＋3つの結果をアンサンブル
 - 動画：[Kaggle's 30 Days Of ML (Competition Part-4): Hyperparameter tuning using Optuna - YouTube](https://www.youtube.com/watch?v=m5YSKPMjkrk&list=PL98nY_tJQXZnP-k3qCDd1hljVSciDV9_N&index=22)
@@ -139,7 +139,7 @@ Kaggle初心者用コンペで、私が最初にやったことが他の人の�
 
 ### [20210831]:full_moon_with_face:7～8回目提出。Model Blending／Stackingを試した
 
-#### :+1: [v7：v6：Improved]【0.71871】(1389／6878：Top 20％) Notebook 30 Days -v7- Model Blending | Model v7.0
+#### :+1: [v7：Improved]【0.71871】(1389／6878：Top 20％) Notebook 30 Days -v7- Model Blending | Model v7.0
 
 - 下記動画の内容そのまま
 - 動画：[Kaggle's 30 Days Of ML (Competition Part-5): Model Blending 101 - YouTube](https://www.youtube.com/watch?v=ISZYWtvoCAc&list=PL98nY_tJQXZnP-k3qCDd1hljVSciDV9_N&index=23)
